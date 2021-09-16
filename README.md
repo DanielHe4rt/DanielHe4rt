@@ -2,7 +2,7 @@
 
 Sou o DanielHe4rt e faço lives na Twitch.tv!
 
-- 🎶 Eu gosto muito de escutar Eminem, Katy Perry e BTS.
+- 🎶 Eu gosto muito de escutar Eminem, Katy Perry, Tenacius D, Milton Nascimento, Elvis, AC/DC, Tim Maia, Supercombo, BlackPink, The Beatles e BTS.
 - 🔭 Estou trabalhando em plataformas de Estudo (LMS)
 - 🌱 Estou aprendendo VueJS
 - 👯 Procuro colaborar com projetos PHP/Laravel
