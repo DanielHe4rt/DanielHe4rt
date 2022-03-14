@@ -34,8 +34,8 @@ Nowadays I decided to focus on my TwitchTV channel and make entertainment with c
 ## Detailed information
 
 * **Name**: Daniel Reis
-* **Age**: 22
-* **Living in**: São Paulo, Brazil
+* **Age**: 23
+* **Living in**: Cachoeira Paulista - SP, Brazil
 * **Stack**: PHP - Laravel - Bootstrap - SQL - AWS
 * **University**: Nope. Only have one I.T associate degree.
 
