@@ -38,6 +38,7 @@ Nowadays I decided to focus on my TwitchTV channel and make entertainment with c
 * **Living in**: Cachoeira Paulista - SP, Brazil
 * **Stack**: PHP - Laravel - Bootstrap - SQL - AWS
 * **University**: Nope. Only have one I.T associate degree.
+* **Prizes:** Microsoft MVP and Twitch Partner
 
 ## Curiosities about me
 
