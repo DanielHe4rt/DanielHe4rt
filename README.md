@@ -19,31 +19,32 @@
     </a>
 </div>
 
-## Hello there
+## Hello there, stranger
 
-I don't really know how u got here, but I will try to show a little bit about myself for you.
+I don't really know how you landed here, but I will try to show a little bit about myself for you. ;)
 
 ## Public information
 
-My name is Daniel Reis. I currently live in São Paulo, Brazil and my work is to solve bugs at my twitch channel. 
+My name is Daniel Reis, a.k.a DanielHe4rt. I currently live in São Paulo, Brazil and my goal is to help many developers to achieve their goals as soon as possible.
 
-On my free time, I manage the @he4rtdevs community, which is basically a place where beginners search for people who wants to help new developers to find a direction of "know how" to code.
+I founded [He4rt Developers](https://github.com/he4rt) in 2018, a community focused to help junior developers into their baby-steps. For 5 years I leaded and learned community management there and now my next step is to create a global community. (soon)
 
-Nowadays I decided to focus on my TwitchTV channel and make entertainment with coding stuffs and build random projects while I try to teach something of these steps of "know how" to my viewers.
+I've also streaming [LiveCoding sessions at Twitch.tv](https://twitch.tv/danielhe4rt) almost daily since 2018 by learning concepts and teaching at the same time, elevating the "Learn in Public" concept to a whole new level. With that, started to write articles on [Dev.to](https://dev.to/danielhe4rt) and create videos on [YouTube](https://youtube.com/danielhe4rt), which was the  game changer action for my Career as a Developer. 
 
 ## Detailed information
 
 * **Name**: Daniel Reis
 * **Age**: 24
-* **Living in**: Cachoeira Paulista - SP, Brazil
-* **Stack**: PHP - Laravel - Bootstrap - SQL - CQL - AWS
+* **Living in**: São Paulo - SP, Brazil
+* **Stack**: PHP - Laravel - Bootstrap - SQL - CQL - AWS - Azure
+* **Learning**: Rust and Databases
 * **University**: Nope. Only have one I.T associate degree.
 * **Prizes:** Microsoft MVP and Twitch Partner
 
 ## Curiosities about me
 
-* I did 10 years of music classes playing classical guitar and singing in a choir which was  reference in the São Paulo state at that time. My final presentation on this road was at the "Sala São Paulo", which is the biggest and greatest theather in Brazil;
-* I started with coding using **Pawn Lang**, switching lines and doing the "try/error" approach on a GTA San Andreas gamemode only to see if something changes in game;
-* I had a "sensei" which teach a lot about programming and he made a huge progress with this knowlegment. Today I just made the same he did for me on the past at the He4rt Developers;
+* I took music classes for 10 years, playing classical guitar, violin, violoncelo, bass and singing in a choir that was the reference in the state of São Paulo at that time. My final presentation in this way was in the ["Sala São Paulo"](https://en.wikipedia.org/wiki/Sala_S%C3%A3o_Paulo), which is the **biggest and greatest** theater in Brazil;
+* I started with coding in 2011 using **Pawn Lang**, switching lines and doing the "try/error" approach on a **GTA San Andreas** gamemode only to see if something changes in game;
+* I had a "sensei" who taught me a lot about programming and he made a huge progress with this knowlegment. Today I just did the same he did for me in the past to any people that asks me for help;
 * I already had 2 private MapleStory servers (Java), 3 GTA SA:MP  private servers (Pawn) and 1 Minecraft Server (Java);
-* I really like to help people.
+* I really like to help people and learn random things.
