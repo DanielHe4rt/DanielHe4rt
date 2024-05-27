@@ -37,7 +37,7 @@ I've also streaming [LiveCoding sessions at Twitch.tv](https://twitch.tv/danielh
 ## Detailed information
 
 * **Name**: Daniel Reis
-* **Age**: 24
+* **Age**: 25
 * **Living in**: São Paulo - SP, Brazil
 * **Stack**: PHP - Laravel - Bootstrap - SQL - CQL - AWS - Azure
 * **Learning**: Rust and Databases
